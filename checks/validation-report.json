@@ -1,0 +1,189 @@
+{
+  "status": "PASS",
+  "run_time_utc": "2026-11-05T19:58:33.186797+00:00",
+  "tool": "validate_release.py with Python 3.14.0",
+  "files_checked": 28,
+  "errors": [],
+  "warnings": [],
+  "midi_files": [
+    {
+      "path": "midi/z7001-minimal-piano-fragments-opening/chord_pulse.mid",
+      "bytes": 784,
+      "sha256": "4e0fdf9b3d3a9e635b8811b65d3e726911b2262ae1c094a9ca1bad2c89057414",
+      "errors": []
+    },
+    {
+      "path": "midi/z7001-minimal-piano-fragments-opening/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "2d3fb58bd97d446b33c5cfb8471a765def89950d2a770160ba52ffd3106e8e41",
+      "errors": []
+    },
+    {
+      "path": "midi/z7001-minimal-piano-fragments-opening/drums.mid",
+      "bytes": 1042,
+      "sha256": "3eba09e4e23b1dd92e5b2ae22449b899192cd2522aed1a5597ed967b0d251874",
+      "errors": []
+    },
+    {
+      "path": "midi/z7001-minimal-piano-fragments-opening/principal_motif.mid",
+      "bytes": 491,
+      "sha256": "1483090df52f791b4ab25735ac500a09917a4b86174c3de8109aea8347fc0580",
+      "errors": []
+    },
+    {
+      "path": "midi/z7001-minimal-piano-fragments-opening/sub_bass.mid",
+      "bytes": 613,
+      "sha256": "77f6bb7d8d5dfb4ba282be8be2bb4df6362efad47aa32cc39810a4a2d93491a4",
+      "errors": []
+    },
+    {
+      "path": "midi/z7001-minimal-piano-fragments-opening/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "ae19fce614c5b9e1889bf9eecbb372034485c987f0bfd395a43346819110bfbd",
+      "errors": []
+    },
+    {
+      "path": "midi/z7001-minimal-piano-fragments-opening/z7001-minimal-piano-fragments-opening-combined.mid",
+      "bytes": 3088,
+      "sha256": "6488b0a4b7f6b5772b2e6588a91c7bfde00809a59db3a1ff6fabcca76d2928bd",
+      "errors": []
+    },
+    {
+      "path": "midi/z7002-minimal-piano-fragments-variation/chord_pulse.mid",
+      "bytes": 784,
+      "sha256": "7f4b9823b918b38893b1587da97c084f2cc6d9e7ab2ccb18a63d72af1c508c14",
+      "errors": []
+    },
+    {
+      "path": "midi/z7002-minimal-piano-fragments-variation/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "e59845b7d1a41306fa2c1f6a16ed5a017287dc0f1197fae523ab79da92017492",
+      "errors": []
+    },
+    {
+      "path": "midi/z7002-minimal-piano-fragments-variation/drums.mid",
+      "bytes": 1042,
+      "sha256": "3eba09e4e23b1dd92e5b2ae22449b899192cd2522aed1a5597ed967b0d251874",
+      "errors": []
+    },
+    {
+      "path": "midi/z7002-minimal-piano-fragments-variation/principal_motif.mid",
+      "bytes": 490,
+      "sha256": "fa7d5cc39e1279a959574621aaaad8a6562dc3dbb526c922aa66a2939b1ea87f",
+      "errors": []
+    },
+    {
+      "path": "midi/z7002-minimal-piano-fragments-variation/sub_bass.mid",
+      "bytes": 613,
+      "sha256": "53f641070ad4747f8fee08e541f0e9ce92bb0fe50ac6ca6e4e0014c9a852cad2",
+      "errors": []
+    },
+    {
+      "path": "midi/z7002-minimal-piano-fragments-variation/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "0d45f6330bbd8653ed11b2cc54b0dd9ec878583e4a3a74afdee5b35cfa15eac1",
+      "errors": []
+    },
+    {
+      "path": "midi/z7002-minimal-piano-fragments-variation/z7002-minimal-piano-fragments-variation-combined.mid",
+      "bytes": 3087,
+      "sha256": "6bb476db8659d309e71e75170c5a760ddb5d15bd292f27ac8c92000380400300",
+      "errors": []
+    },
+    {
+      "path": "midi/z7003-minimal-piano-fragments-contrast/chord_pulse.mid",
+      "bytes": 784,
+      "sha256": "5a47bc490af1034180cb1edde968b7947545e631b136634b57d8d79fcd054925",
+      "errors": []
+    },
+    {
+      "path": "midi/z7003-minimal-piano-fragments-contrast/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "27b977de86847baab4677ef85df2e1bf7ca3362798944cfea63ae19d8aa5568a",
+      "errors": []
+    },
+    {
+      "path": "midi/z7003-minimal-piano-fragments-contrast/drums.mid",
+      "bytes": 1042,
+      "sha256": "3eba09e4e23b1dd92e5b2ae22449b899192cd2522aed1a5597ed967b0d251874",
+      "errors": []
+    },
+    {
+      "path": "midi/z7003-minimal-piano-fragments-contrast/principal_motif.mid",
+      "bytes": 470,
+      "sha256": "e90eceedfbafdf2fc0cb17f960eac5efb015a9fb18cc98584d44b18a34a28acc",
+      "errors": []
+    },
+    {
+      "path": "midi/z7003-minimal-piano-fragments-contrast/sub_bass.mid",
+      "bytes": 613,
+      "sha256": "15fcf66531ecf930b63f4f12579b0b61782c52a47225406b2915d1b2402e2daa",
+      "errors": []
+    },
+    {
+      "path": "midi/z7003-minimal-piano-fragments-contrast/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "4ea507c77fa19b248a355273eef81930e27159ad3c8bcbee70adde936e105fbb",
+      "errors": []
+    },
+    {
+      "path": "midi/z7003-minimal-piano-fragments-contrast/z7003-minimal-piano-fragments-contrast-combined.mid",
+      "bytes": 3067,
+      "sha256": "e481432d6d5733570ce0aa8ea463d07add29d6017aa0c10c06f5854f33b88460",
+      "errors": []
+    },
+    {
+      "path": "midi/z7004-minimal-piano-fragments-return/chord_pulse.mid",
+      "bytes": 784,
+      "sha256": "3c9596462f99987cac5f2352b16a46d11d411da382926206b2b7b597395e5e58",
+      "errors": []
+    },
+    {
+      "path": "midi/z7004-minimal-piano-fragments-return/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "06ea4548b214d882e8515efd972ab81a634da80b6d87a14f0fcab0acbb15ce76",
+      "errors": []
+    },
+    {
+      "path": "midi/z7004-minimal-piano-fragments-return/drums.mid",
+      "bytes": 1042,
+      "sha256": "3eba09e4e23b1dd92e5b2ae22449b899192cd2522aed1a5597ed967b0d251874",
+      "errors": []
+    },
+    {
+      "path": "midi/z7004-minimal-piano-fragments-return/principal_motif.mid",
+      "bytes": 470,
+      "sha256": "f3c533d2045ab14a3f9097dd62317f705f9edf6ad297629e40d93aaac6028422",
+      "errors": []
+    },
+    {
+      "path": "midi/z7004-minimal-piano-fragments-return/sub_bass.mid",
+      "bytes": 613,
+      "sha256": "5957fa503eaf6fec531bace489e1886054392db64765b937fb266cc3c1096605",
+      "errors": []
+    },
+    {
+      "path": "midi/z7004-minimal-piano-fragments-return/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "319cd0dea728ffc22cd0d7c0e1241468abc5ec6a10048b6b9bc4bc333ad0095a",
+      "errors": []
+    },
+    {
+      "path": "midi/z7004-minimal-piano-fragments-return/z7004-minimal-piano-fragments-return-combined.mid",
+      "bytes": 3067,
+      "sha256": "065ec6991d2bc7803328ffb6992653a63a5a0b9e293dd5f6f3d334317a391d70",
+      "errors": []
+    }
+  ],
+  "duplicate_review": [],
+  "negative_control": {
+    "path": "checks/fixtures/invalid-same-pitch-overlap.mid",
+    "expected_result": "rejected for same-pitch overlap",
+    "passed": true
+  },
+  "limitations": [
+    "Automated technical validation only.",
+    "Nobody auditioned these files.",
+    "Duplicate-motif review is bounded and not exhaustive copyright clearance."
+  ]
+}
