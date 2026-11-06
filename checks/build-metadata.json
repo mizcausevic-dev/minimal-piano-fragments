@@ -1,11 +1,11 @@
 {
   "generator_version": "release-train-1.0.0",
   "pack": "minimal-piano-fragments",
-  "source_builder_sha256": "97c986fb7994c8dd519b8f85696af96d32241a668111f4ffe4c3e2c241e1385c",
+  "source_builder_sha256": "3ffc8358a9aff00b2d323c34c1233b331d55daa59a2a3c3e8023c4f44e5d2f8f",
   "commands": [
     "python tools/build_release.py --pack minimal-piano-fragments",
     "python tools/validate_release.py"
   ],
-  "run_time_utc": "2026-11-05T19:43:09.651788+00:00",
+  "run_time_utc": "2026-11-06T18:39:06.836889+00:00",
   "python": "3.14.0"
 }

@@ -1,9 +1,9 @@
 {
   "label": "preview, not a master.",
   "preview_path": "preview/minimal-piano-fragments-simple-synth-preview.mp3",
-  "preview_sha256": "e1bb6538b29a21d17aaef52c3e1f6cdbd1f706f46c5d80da2439150ebd8c7b52",
+  "preview_sha256": "b23013d856c445989094b011513b0edd6b12ad6261e1a98070acca83e7743433",
   "source_midi_path": "midi/z7001-minimal-piano-fragments-opening/z7001-minimal-piano-fragments-opening-combined.mid",
-  "source_midi_sha256": "6488b0a4b7f6b5772b2e6588a91c7bfde00809a59db3a1ff6fabcca76d2928bd",
+  "source_midi_sha256": "4c8eb2ec5caca7e05830ca76f97a2763c763826b0befd46534c9c5b8150d27e3",
   "renderer": "release-simple-synth 1.0.0",
   "renderer_configuration": {
     "sample_rate": 44100,
@@ -23,7 +23,7 @@
     "end_seconds": 106.667
   },
   "measurement": {
-    "sample_peak": 0.143357,
+    "sample_peak": 0.164195,
     "not_lufs_or_true_peak": true
   },
   "limitations": "Automated generation and decode checks only. Nobody auditioned this simple-synthesis preview. It is not a finished-production sound or master."

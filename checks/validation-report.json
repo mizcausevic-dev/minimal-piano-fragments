@@ -1,6 +1,6 @@
 {
   "status": "PASS",
-  "run_time_utc": "2026-11-05T19:58:33.186797+00:00",
+  "run_time_utc": "2026-11-06T18:39:52.223174+00:00",
   "tool": "validate_release.py with Python 3.14.0",
   "files_checked": 28,
   "errors": [],
@@ -26,8 +26,8 @@
     },
     {
       "path": "midi/z7001-minimal-piano-fragments-opening/principal_motif.mid",
-      "bytes": 491,
-      "sha256": "1483090df52f791b4ab25735ac500a09917a4b86174c3de8109aea8347fc0580",
+      "bytes": 554,
+      "sha256": "d5a9a2b6f1904ffb548afbb68dbefe479a1c3c3ce88779ca720cd6f92f81421d",
       "errors": []
     },
     {
@@ -44,8 +44,8 @@
     },
     {
       "path": "midi/z7001-minimal-piano-fragments-opening/z7001-minimal-piano-fragments-opening-combined.mid",
-      "bytes": 3088,
-      "sha256": "6488b0a4b7f6b5772b2e6588a91c7bfde00809a59db3a1ff6fabcca76d2928bd",
+      "bytes": 3151,
+      "sha256": "4c8eb2ec5caca7e05830ca76f97a2763c763826b0befd46534c9c5b8150d27e3",
       "errors": []
     },
     {
@@ -68,8 +68,8 @@
     },
     {
       "path": "midi/z7002-minimal-piano-fragments-variation/principal_motif.mid",
-      "bytes": 490,
-      "sha256": "fa7d5cc39e1279a959574621aaaad8a6562dc3dbb526c922aa66a2939b1ea87f",
+      "bytes": 554,
+      "sha256": "deda98046ea1d04ccb120513f7b0a1067936a84da1285cac6b8483275bfa5eb2",
       "errors": []
     },
     {
@@ -86,8 +86,8 @@
     },
     {
       "path": "midi/z7002-minimal-piano-fragments-variation/z7002-minimal-piano-fragments-variation-combined.mid",
-      "bytes": 3087,
-      "sha256": "6bb476db8659d309e71e75170c5a760ddb5d15bd292f27ac8c92000380400300",
+      "bytes": 3151,
+      "sha256": "885a13ce28fe6daa260256dbb1c876ae02b93b927acbb0b9294b8e3e61a2ee55",
       "errors": []
     },
     {
@@ -110,8 +110,8 @@
     },
     {
       "path": "midi/z7003-minimal-piano-fragments-contrast/principal_motif.mid",
-      "bytes": 470,
-      "sha256": "e90eceedfbafdf2fc0cb17f960eac5efb015a9fb18cc98584d44b18a34a28acc",
+      "bytes": 515,
+      "sha256": "7a45649576550254fece466971b9801f3aa193836fd3873e771fe15bca9d8545",
       "errors": []
     },
     {
@@ -128,8 +128,8 @@
     },
     {
       "path": "midi/z7003-minimal-piano-fragments-contrast/z7003-minimal-piano-fragments-contrast-combined.mid",
-      "bytes": 3067,
-      "sha256": "e481432d6d5733570ce0aa8ea463d07add29d6017aa0c10c06f5854f33b88460",
+      "bytes": 3112,
+      "sha256": "5297b5e2b7a69f9753d94637a7ecf648ab788c2656f3562850b4c5e2850ebef0",
       "errors": []
     },
     {
@@ -152,8 +152,8 @@
     },
     {
       "path": "midi/z7004-minimal-piano-fragments-return/principal_motif.mid",
-      "bytes": 470,
-      "sha256": "f3c533d2045ab14a3f9097dd62317f705f9edf6ad297629e40d93aaac6028422",
+      "bytes": 516,
+      "sha256": "adb7296977689f85d635746d9b846204e46e1807a98ab883fc50d59f22795a1b",
       "errors": []
     },
     {
@@ -170,8 +170,8 @@
     },
     {
       "path": "midi/z7004-minimal-piano-fragments-return/z7004-minimal-piano-fragments-return-combined.mid",
-      "bytes": 3067,
-      "sha256": "065ec6991d2bc7803328ffb6992653a63a5a0b9e293dd5f6f3d334317a391d70",
+      "bytes": 3113,
+      "sha256": "29f078a71566a15d7fa6d87737357470b32f8ab349036661f9202884cdb30ed6",
       "errors": []
     }
   ],
