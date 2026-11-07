@@ -198,8 +198,8 @@
     },
     {
       "path": "downloads/minimal-piano-fragments-midi.zip",
-      "bytes": 25618,
-      "sha256": "223775b80b45794d26c0a5fda9e6ba90ecd5a9f78d0425967fd1fd48d4d7439c"
+      "bytes": 27014,
+      "sha256": "7e358beb170dbc3e5187bf8e1760a8238421b42e608d27daec740b05ca40b0b3"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -233,8 +233,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 10210,
-      "sha256": "33eb27a3b66424ec789239a78bd922a04cb02c5fc5ad096b0dfe9577e4ab75a8"
+      "bytes": 10400,
+      "sha256": "e348dedcd1e92658640fe9222990905d6b1932bbbfb5e579d298a12311d3a73a"
     },
     {
       "path": "midi/z7001-minimal-piano-fragments-opening/chord_pulse.mid",
@@ -377,6 +377,11 @@
       "sha256": "29f078a71566a15d7fa6d87737357470b32f8ab349036661f9202884cdb30ed6"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "preview/minimal-piano-fragments-simple-synth-preview.mp3",
       "bytes": 2573627,
       "sha256": "b23013d856c445989094b011513b0edd6b12ad6261e1a98070acca83e7743433"
@@ -388,8 +393,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 4146,
-      "sha256": "47c541757751f16a759b98a02ba1586296554e8295e21aaff58ebaca3b8a081e"
+      "bytes": 4261,
+      "sha256": "4f2ddda7de51c6c8cd003542613f3ad76398d421f29912a3266d843e3a1efe2e"
     },
     {
       "path": "REVISION.md",
